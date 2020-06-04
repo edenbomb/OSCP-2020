@@ -1,0 +1,47 @@
+Host Name:                 ASYSTOLE
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          carl
+Registered Organization:   
+Product ID:                00330-80000-00000-AA693
+Original Install Date:     1/20/2020, 5:36:36 PM
+System Boot Time:          4/27/2020, 4:40:20 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~2300 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.14027680.B64.1906252300, 6/25/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,095 MB
+Available Physical Memory: 1,722 MB
+Virtual Memory: Max Size:  5,503 MB
+Virtual Memory: Available: 3,228 MB
+Virtual Memory: In Use:    2,275 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\ASYSTOLE
+Hotfix(s):                 8 Hotfix(s) Installed.
+                           [01]: KB4537572
+                           [02]: KB4497727
+                           [03]: KB4516115
+                           [04]: KB4517245
+                           [05]: KB4528759
+                           [06]: KB4537759
+                           [07]: KB4552152
+                           [08]: KB4549951
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: vmxnet3 Ethernet Adapter
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.66.105
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
